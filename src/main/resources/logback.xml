@@ -48,7 +48,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.devserbyn.suncheck" level="INFO"/>
+    <logger name="com.kursova.suncheck" level="INFO"/>
     <logger name="org.springframework" level="INFO"/>
     <logger name="org.hibernate" level="INFO"/>
     <logger name="org.telegram" level="INFO"/>
